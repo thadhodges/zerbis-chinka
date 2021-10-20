@@ -14,7 +14,7 @@ namespace zerbis_chinka
             {
                 return $"{x} is an even number...";
             }
-            else
+            
             {
                 return $"{x} is an odd number...";
             }
@@ -33,7 +33,7 @@ namespace zerbis_chinka
         {
             Console.WriteLine("Hello World!");
 
-            IsEvenNumber(int.Parse(Console.ReadLine()));
+            Console.WriteLine(IsEvenNumber(4));
 
 
         }

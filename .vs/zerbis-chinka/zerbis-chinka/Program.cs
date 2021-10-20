@@ -12,11 +12,11 @@ namespace zerbis_chinka
 
             if (x % 2 == 0)
             {
-                return $"{x} is an even number...";
+                return $"{x} is an even number...thanks for playing.";
             }
             
             {
-                return $"{x} is an odd number...";
+                return $"{x} is an odd number...thanks for playing.";
             }
                 
             

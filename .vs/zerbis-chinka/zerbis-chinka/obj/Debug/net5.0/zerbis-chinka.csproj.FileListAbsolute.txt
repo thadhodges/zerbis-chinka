@@ -1,0 +1,16 @@
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\bin\Debug\net5.0\zerbis-chinka.exe
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\bin\Debug\net5.0\zerbis-chinka.deps.json
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\bin\Debug\net5.0\zerbis-chinka.runtimeconfig.json
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\bin\Debug\net5.0\zerbis-chinka.runtimeconfig.dev.json
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\bin\Debug\net5.0\zerbis-chinka.dll
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\bin\Debug\net5.0\ref\zerbis-chinka.dll
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\bin\Debug\net5.0\zerbis-chinka.pdb
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\zerbis-chinka.csproj.AssemblyReference.cache
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\zerbis-chinka.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\zerbis-chinka.AssemblyInfoInputs.cache
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\zerbis-chinka.AssemblyInfo.cs
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\zerbis-chinka.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\zerbis-chinka.dll
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\ref\zerbis-chinka.dll
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\zerbis-chinka.pdb
+C:\WORK\REPO\zerbis-chinka\.vs\zerbis-chinka\zerbis-chinka\obj\Debug\net5.0\zerbis-chinka.genruntimeconfig.cache

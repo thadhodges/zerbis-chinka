@@ -22,19 +22,12 @@ namespace zerbis_chinka
             
         }
 
-
-
-
-
-
-
-
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine(IsEvenNumber(4));
-
+            Console.WriteLine(IsEvenNumber(5));
+            
 
         }
     }

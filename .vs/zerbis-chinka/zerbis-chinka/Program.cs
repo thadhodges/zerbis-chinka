@@ -29,6 +29,9 @@ namespace zerbis_chinka
             Console.WriteLine(IsEvenNumber(5));
             
 
+
+
+
         }
     }
 }
